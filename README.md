@@ -1,5 +1,5 @@
 # Magento 2 Instagram Feed Extension
-[Magento 2 Instagram Feed by Mageplaza](http://www.mageplaza.com/magento-2-instagram-feed/) is a supportive module which allows integrating Instagram images to Magento 2 website. This trendy extension enables you to place eye-catching Instagram images block to any page of your site, which can effectively draw customers' attention and bring a modern well-updated look to online stores.
+[Magento 2 Instagram Feed by Mageplaza] is a supportive module which allows integrating Instagram images to Magento 2 website. This trendy extension enables you to place eye-catching Instagram images block to any page of your site, which can effectively draw customers' attention and bring a modern well-updated look to online stores.
 
 ## 1. Instagram Feed Widget Documentation
 - [Introduction page](http://www.mageplaza.com/magento-2-instagram-feed/)
